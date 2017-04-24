@@ -1,0 +1,11 @@
+{
+    "name": "ssdb-php/ssdb-php",
+    "type": "library",
+    "version": "master",
+    "description": "SSDB - A fast NoSQL database with zset data type, an alternative to Redis.",
+    "autoload": {
+        "classmap": [
+            "SSDB.php"
+        ]
+    }
+}
